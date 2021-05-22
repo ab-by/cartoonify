@@ -1,17 +1,8 @@
 This repo contains one of the most popular basic level projects of Machine Learning i.e. Cartoonifier.
-Pre-requisites (in cmd prompt if windows user):
+Major pre-requisites for the same are installation of important packages in the system :
+1. OpenCV 2. ImageIO 3. EasyGUI
 
-1.
-                                            
-                                             pip install python-opencv
-                 
-2. 
-                                                
-                                                pip install easygui
-3.
-                                                 pip install imageio
-
-The code here aims to transform images into cartoon. 
+The code here aims here to edit your image into various types. 
 
 It will run a GUI application which allows us to select an image from our file system and then transform it into cartoon.
 
